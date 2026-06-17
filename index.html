@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrightTech AI Enterprise SLM</title>
+    <!-- Use modern Inter font from Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- Link to custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Layout -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>BrightTech AI</h2>
+                <span class="badge">Enterprise</span>
+            </div>
+            <button id="new-chat-btn" class="sidebar-btn primary-btn">+ New Chat</button>
+            <div class="sidebar-menu">
+                <h3>Recent Chats</h3>
+                <ul id="history-list">
+                    <!-- History mocked/managed by JS -->
+                    <li class="active-chat">Current Session</li>
+                </ul>
+            </div>
+            <div class="sidebar-footer">
+                <button id="export-chat-btn" class="sidebar-btn secondary-btn">
+                    <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                    Export Chat
+                </button>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <div class="main-content">
+            <!-- Header -->
+            <header class="chat-header">
+                <div class="model-selector">
+                    <span class="dot-indicator"></span>
+                    <select id="model-select">
+                        <option value="light">BrightTech-SLM-Light</option>
+                        <!--<option value="advanced" disabled>BrightTech-SLM-Pro (Locked)</option>-->
+                    </select>
+                </div>
+                <button id="clear-btn" class="icon-btn" title="Clear Chat">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+                </button>
+            </header>
+
+            <!-- Chat Area -->
+            <main class="chat-area" id="chat-box">
+                <!-- Initial Greeting -->
+                <div class="message bot-message">
+                    <div class="avatar bot-avatar">AI</div>
+                    <div class="message-body">
+                        <div class="message-content">
+                            Hello! I am the BrightTech Solutions Enterprise AI Assistant. How can I help you today?
+                        </div>
+                    </div>
+                </div>
+            </main>
+
+            <!-- Input Area with Quick Chips -->
+            <footer class="input-container">
+                <div class="quick-chips" id="quick-chips">
+                    <button class="chip">What are the core values?</button>
+                    <button class="chip">List all departments</button>
+                    <button class="chip">Who is the CEO?</button>
+                </div>
+                <div class="input-area">
+                    <form id="chat-form">
+                        <input type="text" id="user-input" placeholder="Ask about employees, salaries, or company info..." autocomplete="off" required>
+                        <button type="submit" id="send-btn">
+                            <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="22" y1="2" x2="11" y2="13"></line>
+                                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                            </svg>
+                        </button>
+                    </form>
+                </div>
+                <!--<div class="footer-note">SLMs can make mistakes. Consider verifying important information.</div>-->
+            </footer>
+        </div>
+    </div>
+
+    <!-- Link to custom JS -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
