@@ -1,0 +1,5 @@
+flask>=3.0.0
+gunicorn>=21.2.0
+
+# All other imports used by app.py are Python stdlib:
+# sqlite3, os, sys, re, difflib, pickle — no pip install needed
