@@ -1,0 +1,462 @@
+BrightTech Solutions is a software development company.
+
+The CEO of BrightTech Solutions is Rahul Sharma.
+The CTO of BrightTech Solutions is Priya Verma.
+The HR Manager of BrightTech Solutions is Neha Gupta.
+
+The company has departments such as HR, IT, Sales, Marketing, Finance, and Operations.
+
+Rahul Sharma works in Management.
+Priya Verma works in IT.
+Neha Gupta works in HR.
+Amit Kumar works in IT.
+Rohit Singh works in Sales.
+Ananya Jain works in Marketing.
+Karan Mehta works in Finance.
+Sneha Patel works in Operations.
+
+Amit Kumar is a Software Engineer.
+Priya Verma is a Chief Technology Officer.
+Rohit Singh is a Sales Executive.
+Ananya Jain is a Marketing Manager.
+Karan Mehta is a Financial Analyst.
+Sneha Patel is an Operations Manager.
+
+The salary of Rahul Sharma is 200000 rupees.
+The salary of Priya Verma is 180000 rupees.
+The salary of Neha Gupta is 120000 rupees.
+The salary of Amit Kumar is 70000 rupees.
+The salary of Rohit Singh is 60000 rupees.
+The salary of Ananya Jain is 75000 rupees.
+The salary of Karan Mehta is 80000 rupees.
+The salary of Sneha Patel is 85000 rupees.
+
+The office opens at 9 AM.
+The office closes at 6 PM.
+
+Employees must mark attendance daily.
+Employees receive salaries on the last working day of the month.
+The HR department manages employee records.
+The IT department develops software products.
+The Sales department acquires customers.
+The Marketing department promotes products.
+The Finance department manages company accounts.
+The Operations department ensures smooth business processes.
+
+BrightTech Solutions develops web applications.
+BrightTech Solutions develops mobile applications.
+BrightTech Solutions develops CRM systems.
+BrightTech Solutions develops ERP systems.
+BrightTech Solutions develops business automation software.
+BrightTech Solutions provides software consulting services.
+
+Customer support operates from 9 AM to 8 PM.
+The company serves clients across India.
+The company focuses on innovation and technology.
+The company uses modern technology to build software solutions.
+
+Amit Kumar reports to Priya Verma.
+Rohit Singh reports to Rahul Sharma.
+Ananya Jain reports to Rahul Sharma.
+Karan Mehta reports to Rahul Sharma.
+Sneha Patel reports to Rahul Sharma.
+Neha Gupta reports to Rahul Sharma.
+Priya Verma reports to Rahul Sharma.
+
+Rahul Sharma is the highest paid employee in the company.
+Rohit Singh is the lowest paid employee in the company.
+The Finance department manages budgets and expenses.
+The HR department conducts interviews.
+The IT department maintains company servers.
+The Operations department ensures smooth business processes.
+
+BrightTech Solutions values teamwork.
+BrightTech Solutions values integrity.
+BrightTech Solutions values innovation.
+BrightTech Solutions values customer satisfaction.
+BrightTech Solutions values excellence.
+BrightTech Solutions values transparency.
+
+Employees can apply for leave through the HR portal.
+Employees can check attendance through the employee portal.
+Employees can view salary details through the payroll system.
+Employees can request transfers through the HR portal.
+
+The company provides health insurance.
+The company provides annual bonuses.
+The company provides training programs.
+The company provides performance reviews.
+The company provides flexible work hours.
+The company provides work from home options.
+
+BrightTech Solutions has offices in Delhi.
+BrightTech Solutions has offices in Mumbai.
+BrightTech Solutions has offices in Bangalore.
+The head office is located in Noida.
+
+Software engineers develop applications.
+HR managers recruit employees.
+Sales executives generate revenue.
+Marketing managers promote products.
+Financial analysts manage financial data.
+Operations managers coordinate daily activities.
+
+The company was founded in 2020.
+The company has been growing rapidly since its founding.
+The company employs talented professionals in various fields.
+The company believes in continuous improvement.
+
+BrightTech Solutions works with startups and enterprises.
+BrightTech Solutions provides cloud-based solutions.
+BrightTech Solutions provides data analytics services.
+BrightTech Solutions provides AI and machine learning solutions.
+BrightTech Solutions provides cybersecurity services.
+
+The IT department uses Python for backend development.
+The IT department uses JavaScript for frontend development.
+The IT department uses React for building user interfaces.
+The IT department uses Node.js for server-side development.
+The IT department uses SQL for database management.
+The IT department uses cloud technologies for deployment.
+
+The company conducts quarterly reviews.
+The company has annual team outings.
+The company celebrates employee birthdays.
+The company organizes hackathons regularly.
+The company supports open source development.
+
+Question: What is BrightTech Solutions?
+Answer: BrightTech Solutions is a software development company that provides web applications, mobile applications, CRM systems, and ERP solutions. <END>
+
+Question: Tell me about BrightTech Solutions.
+Answer: BrightTech Solutions is a software development company that provides technology solutions to businesses across India. The company was founded in 2020 and has offices in Delhi, Mumbai, and Bangalore. <END>
+
+Question: Give me details of BrightTech Solutions.
+Answer: BrightTech Solutions develops web applications, mobile applications, CRM systems, ERP systems, and cloud-based business solutions. The company is led by CEO Rahul Sharma and CTO Priya Verma. <END>
+
+Question: Describe BrightTech Solutions.
+Answer: BrightTech Solutions is a technology company focused on innovation, software development, and customer satisfaction. It has departments including HR, IT, Sales, Marketing, Finance, and Operations. <END>
+
+Question: Who is the CEO of BrightTech Solutions?
+Answer: Rahul Sharma is the CEO of BrightTech Solutions. <END>
+
+Question: Who is the CEO?
+Answer: Rahul Sharma is the CEO of BrightTech Solutions. <END>
+
+Question: Who is the CTO?
+Answer: Priya Verma is the CTO of BrightTech Solutions. <END>
+
+Question: Who is the CTO of BrightTech Solutions?
+Answer: Priya Verma is the CTO (Chief Technology Officer) of BrightTech Solutions. She works in the IT department. <END>
+
+Question: Who is the HR Manager?
+Answer: Neha Gupta is the HR Manager of BrightTech Solutions. <END>
+
+Question: Who is the HR Manager of BrightTech Solutions?
+Answer: Neha Gupta is the HR Manager of BrightTech Solutions. She manages the HR department. <END>
+
+Question: What departments are available?
+Answer: BrightTech Solutions has HR, IT, Sales, Marketing, Finance, and Operations departments. <END>
+
+Question: What departments are available in the company?
+Answer: The company has HR, IT, Sales, Marketing, Finance, and Operations departments. <END>
+
+Question: List all departments.
+Answer: The departments are HR, IT, Sales, Marketing, Finance, and Operations. <END>
+
+Question: How many departments are there?
+Answer: BrightTech Solutions has 6 departments: HR, IT, Sales, Marketing, Finance, and Operations. <END>
+
+Question: Who works in the IT department?
+Answer: Priya Verma and Amit Kumar work in the IT department. <END>
+
+Question: Who works in IT?
+Answer: Priya Verma (CTO) and Amit Kumar (Software Engineer) work in the IT department. <END>
+
+Question: Who works in HR?
+Answer: Neha Gupta works in the HR department. <END>
+
+Question: Who works in the HR department?
+Answer: Neha Gupta (HR Manager) works in the HR department. <END>
+
+Question: Who works in Sales?
+Answer: Rohit Singh works in the Sales department. <END>
+
+Question: Who works in the Sales department?
+Answer: Rohit Singh (Sales Executive) works in the Sales department. <END>
+
+Question: Who works in Marketing?
+Answer: Ananya Jain works in the Marketing department. <END>
+
+Question: Who works in the Marketing department?
+Answer: Ananya Jain (Marketing Manager) works in the Marketing department. <END>
+
+Question: Who works in Finance?
+Answer: Karan Mehta works in the Finance department. <END>
+
+Question: Who works in the Finance department?
+Answer: Karan Mehta (Financial Analyst) works in the Finance department. <END>
+
+Question: Who works in Operations?
+Answer: Sneha Patel works in the Operations department. <END>
+
+Question: Who works in the Operations department?
+Answer: Sneha Patel (Operations Manager) works in the Operations department. <END>
+
+Question: List all employees.
+Answer: Rahul Sharma, Priya Verma, Neha Gupta, Amit Kumar, Rohit Singh, Ananya Jain, Karan Mehta, and Sneha Patel are employees of BrightTech Solutions. <END>
+
+Question: Who are the employees of BrightTech Solutions?
+Answer: Rahul Sharma, Priya Verma, Neha Gupta, Amit Kumar, Rohit Singh, Ananya Jain, Karan Mehta, and Sneha Patel work at BrightTech Solutions. <END>
+
+Question: How many employees are there?
+Answer: BrightTech Solutions currently has 8 employees across various departments. <END>
+
+Question: Who is Rahul Sharma?
+Answer: Rahul Sharma is the CEO of BrightTech Solutions. He works in the Management department and earns 200000 rupees per month. <END>
+
+Question: Who is Priya Verma?
+Answer: Priya Verma is the CTO (Chief Technology Officer) of BrightTech Solutions. She works in the IT department and earns 180000 rupees per month. She reports to Rahul Sharma. <END>
+
+Question: Who is Neha Gupta?
+Answer: Neha Gupta is the HR Manager of BrightTech Solutions. She works in the HR department and earns 120000 rupees per month. She reports to Rahul Sharma. <END>
+
+Question: Who is Amit Kumar?
+Answer: Amit Kumar is a Software Engineer at BrightTech Solutions. He works in the IT department and earns 70000 rupees per month. He reports to Priya Verma. <END>
+
+Question: Who is Rohit Singh?
+Answer: Rohit Singh is a Sales Executive at BrightTech Solutions. He works in the Sales department and earns 60000 rupees per month. He reports to Rahul Sharma. <END>
+
+Question: Who is Ananya Jain?
+Answer: Ananya Jain is the Marketing Manager at BrightTech Solutions. She works in the Marketing department and earns 75000 rupees per month. She reports to Rahul Sharma. <END>
+
+Question: Who is Karan Mehta?
+Answer: Karan Mehta is a Financial Analyst at BrightTech Solutions. He works in the Finance department and earns 80000 rupees per month. He reports to Rahul Sharma. <END>
+
+Question: Who is Sneha Patel?
+Answer: Sneha Patel is the Operations Manager at BrightTech Solutions. She works in the Operations department and earns 85000 rupees per month. She reports to Rahul Sharma. <END>
+
+Question: Tell me about Amit Kumar.
+Answer: Amit Kumar is a Software Engineer in the IT department at BrightTech Solutions. He earns 70000 rupees per month and reports to Priya Verma. <END>
+
+Question: Tell me about Priya Verma.
+Answer: Priya Verma is the CTO of BrightTech Solutions. She leads the IT department and earns 180000 rupees per month. She reports to Rahul Sharma. <END>
+
+Question: What is Amit Kumar's role?
+Answer: Amit Kumar is a Software Engineer. <END>
+
+Question: What is Rohit Singh's role?
+Answer: Rohit Singh is a Sales Executive. <END>
+
+Question: What is Ananya Jain's role?
+Answer: Ananya Jain is a Marketing Manager. <END>
+
+Question: What is Karan Mehta's role?
+Answer: Karan Mehta is a Financial Analyst. <END>
+
+Question: What is Sneha Patel's role?
+Answer: Sneha Patel is an Operations Manager. <END>
+
+Question: What is Rahul Sharma's role?
+Answer: Rahul Sharma is the CEO (Chief Executive Officer) of BrightTech Solutions. <END>
+
+Question: What is Priya Verma's role?
+Answer: Priya Verma is the CTO (Chief Technology Officer) of BrightTech Solutions. <END>
+
+Question: What is Neha Gupta's role?
+Answer: Neha Gupta is the HR Manager of BrightTech Solutions. <END>
+
+Question: What is Amit Kumar's salary?
+Answer: Amit Kumar earns 70000 rupees per month. <END>
+
+Question: What is Rohit Singh's salary?
+Answer: Rohit Singh earns 60000 rupees per month. <END>
+
+Question: What is Ananya Jain's salary?
+Answer: Ananya Jain earns 75000 rupees per month. <END>
+
+Question: What is Karan Mehta's salary?
+Answer: Karan Mehta earns 80000 rupees per month. <END>
+
+Question: What is Sneha Patel's salary?
+Answer: Sneha Patel earns 85000 rupees per month. <END>
+
+Question: What is Rahul Sharma's salary?
+Answer: Rahul Sharma earns 200000 rupees per month. He is the highest paid employee. <END>
+
+Question: What is Priya Verma's salary?
+Answer: Priya Verma earns 180000 rupees per month. <END>
+
+Question: What is Neha Gupta's salary?
+Answer: Neha Gupta earns 120000 rupees per month. <END>
+
+Question: Who has the highest salary?
+Answer: Rahul Sharma has the highest salary in the company at 200000 rupees per month. <END>
+
+Question: Which employee has the highest salary?
+Answer: Rahul Sharma earns the highest salary among all employees at 200000 rupees per month. <END>
+
+Question: Who earns the most?
+Answer: Rahul Sharma earns the most at 200000 rupees per month. <END>
+
+Question: Who has the lowest salary?
+Answer: Rohit Singh has the lowest salary at 60000 rupees per month. <END>
+
+Question: Who earns the least?
+Answer: Rohit Singh earns the least at 60000 rupees per month. <END>
+
+Question: What services does BrightTech Solutions provide?
+Answer: BrightTech Solutions provides software development, web development, mobile development, CRM development, ERP development, cloud solutions, data analytics, AI and machine learning solutions, and consulting services. <END>
+
+Question: What products does the company develop?
+Answer: The company develops web applications, mobile applications, CRM systems, ERP systems, business automation tools, and cloud-based solutions. <END>
+
+Question: What time does the office open?
+Answer: The office opens at 9 AM. <END>
+
+Question: What time does the office close?
+Answer: The office closes at 6 PM. <END>
+
+Question: What are the office hours?
+Answer: The office hours are from 9 AM to 6 PM. <END>
+
+Question: What are the office timings?
+Answer: The office operates from 9 AM to 6 PM on working days. <END>
+
+Question: Does the company provide health insurance?
+Answer: Yes, BrightTech Solutions provides health insurance to employees. <END>
+
+Question: Does the company provide bonuses?
+Answer: Yes, BrightTech Solutions provides annual performance bonuses. <END>
+
+Question: What benefits does the company provide?
+Answer: BrightTech Solutions provides health insurance, annual bonuses, training programs, performance reviews, flexible work hours, and work from home options. <END>
+
+Question: How can employees apply for leave?
+Answer: Employees can apply for leave through the HR portal. <END>
+
+Question: How can employees check attendance?
+Answer: Employees can check attendance through the employee portal. <END>
+
+Question: How can employees view salary information?
+Answer: Employees can view salary information through the payroll system. <END>
+
+Question: Where are the company offices located?
+Answer: BrightTech Solutions has offices in Delhi, Mumbai, and Bangalore. The head office is in Noida. <END>
+
+Question: Where is BrightTech Solutions located?
+Answer: BrightTech Solutions is headquartered in Noida with offices in Delhi, Mumbai, and Bangalore. <END>
+
+Question: What are the company values?
+Answer: BrightTech Solutions values innovation, teamwork, integrity, customer satisfaction, excellence, and transparency. <END>
+
+Question: What is the mission of BrightTech Solutions?
+Answer: The mission is to deliver innovative software solutions that help businesses grow and succeed. <END>
+
+Question: What is the vision of BrightTech Solutions?
+Answer: The vision is to become a leading technology company in India by providing world-class software solutions. <END>
+
+Question: What does the IT department do?
+Answer: The IT department develops software products, maintains servers, manages databases, and supports technical operations. <END>
+
+Question: What does the HR department do?
+Answer: The HR department manages employee records, recruitment, attendance, payroll, leave management, and employee welfare. <END>
+
+Question: What does the Sales department do?
+Answer: The Sales department acquires customers, generates revenue, and maintains client relationships. <END>
+
+Question: What does the Marketing department do?
+Answer: The Marketing department promotes products, manages branding, runs campaigns, and generates leads. <END>
+
+Question: What does the Finance department do?
+Answer: The Finance department manages budgets, salaries, expenses, financial planning, and company accounts. <END>
+
+Question: What does the Operations department do?
+Answer: The Operations department ensures smooth business processes, coordinates daily activities, and manages logistics. <END>
+
+Question: Who does Amit Kumar report to?
+Answer: Amit Kumar reports to Priya Verma. <END>
+
+Question: Who does Rohit Singh report to?
+Answer: Rohit Singh reports to Rahul Sharma. <END>
+
+Question: Who does Ananya Jain report to?
+Answer: Ananya Jain reports to Rahul Sharma. <END>
+
+Question: Who does Karan Mehta report to?
+Answer: Karan Mehta reports to Rahul Sharma. <END>
+
+Question: Who does Sneha Patel report to?
+Answer: Sneha Patel reports to Rahul Sharma. <END>
+
+Question: Who does Priya Verma report to?
+Answer: Priya Verma reports to Rahul Sharma. <END>
+
+Question: Who does Neha Gupta report to?
+Answer: Neha Gupta reports to Rahul Sharma. <END>
+
+Question: Who is the manager of Amit Kumar?
+Answer: Priya Verma is the manager of Amit Kumar. <END>
+
+Question: Who maintains company servers?
+Answer: The IT department maintains company servers. <END>
+
+Question: Who conducts interviews?
+Answer: The HR department conducts interviews. <END>
+
+Question: Who manages company budgets?
+Answer: The Finance department manages company budgets. <END>
+
+Question: Who ensures smooth operations?
+Answer: The Operations department ensures smooth operations. <END>
+
+Question: What is customer support timing?
+Answer: Customer support operates from 9 AM to 8 PM. <END>
+
+Question: Does the company serve clients across India?
+Answer: Yes, BrightTech Solutions serves clients across India. <END>
+
+Question: When was BrightTech Solutions founded?
+Answer: BrightTech Solutions was founded in 2020. <END>
+
+Question: When was the company established?
+Answer: The company was established in 2020. <END>
+
+Question: What technologies does the company use?
+Answer: The company uses Python, JavaScript, React, Node.js, SQL, cloud technologies, and modern AI and machine learning frameworks. <END>
+
+Question: What is the purpose of the Sales department?
+Answer: The Sales department focuses on acquiring customers and increasing revenue. <END>
+
+Question: What is the purpose of the Marketing department?
+Answer: The Marketing department focuses on promoting products and generating leads. <END>
+
+Question: What is the purpose of the Finance department?
+Answer: The Finance department focuses on financial planning and expense management. <END>
+
+Question: What is the purpose of the Operations department?
+Answer: The Operations department focuses on business efficiency and process management. <END>
+
+Question: What is the purpose of the IT department?
+Answer: The IT department focuses on software development, server maintenance, and technical support. <END>
+
+Question: What is the purpose of the HR department?
+Answer: The HR department focuses on recruitment, employee management, attendance, and payroll. <END>
+
+Question: When are salaries paid?
+Answer: Salaries are paid on the last working day of every month. <END>
+
+Question: How does attendance work?
+Answer: Employees must mark attendance daily through the employee portal. <END>
+
+Question: Does the company provide training?
+Answer: Yes, the company provides professional training programs for employee development. <END>
+
+Question: What is the company culture like?
+Answer: BrightTech Solutions has a culture of innovation, teamwork, and continuous improvement. The company organizes hackathons, team outings, and celebrates employee achievements. <END>
+
+Question: Does the company support work from home?
+Answer: Yes, BrightTech Solutions provides work from home options and flexible work hours for its employees. <END>
+
+Question: What kind of clients does BrightTech Solutions work with?
+Answer: BrightTech Solutions works with startups and enterprises across India, providing software development and consulting services. <END>
