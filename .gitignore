@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+venv311/
+env/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# ML model files (large - optional to exclude)
+# model.pth
+# vocab.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
